@@ -1,2 +1,2 @@
-# notortalamas-
+# notortalaması-
 not ortalaması hesaplama aracı
